@@ -1,13 +1,13 @@
-package com.itkeller.personalwebsite;
+package com.itkeller.springbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PersonalWebsiteApplicationTests {
+class SpringBackendApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
