@@ -1,10 +1,10 @@
-package com.itkeller.springbackend;
+package com.itkeller.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBackendApplicationTests {
+class BackendApplicationTests {
 
     @Test
     void contextLoads() {
