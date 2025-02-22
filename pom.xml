@@ -13,7 +13,8 @@
     <description>Parent project for multi-module setup</description>
 
     <modules>
-        <module>backend</module> <!-- Added backend module -->
+        <module>frontend</module> <!-- Added backend module -->
+        <module>backend</module>
     </modules>
 
     <properties>
